@@ -1,0 +1,12 @@
+{  
+    "data": [
+    {
+    "email": "george.bluth@reqres.in",
+    "password": "George"
+    },
+    {
+    "email": "janet.weaver@reqres.in",
+    "password": "Janet"
+    }
+    ]  
+    }
